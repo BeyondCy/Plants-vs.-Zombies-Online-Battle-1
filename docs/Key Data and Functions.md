@@ -4,7 +4,7 @@ All information can be obtained through reverse engineering.
 
 ## Warning
 
-> This document is **only** for *Plants vs. Zombies **1.0.0.1051 CHINESE*** version.
+> This document is only for *Plants vs. Zombies **1.0.0.1051 CHINESE*** version.
 >
 > The *MD5* of `PlantsVsZombies.exe` is `37B729B4056131722A556E646AC915E9`.
 
@@ -492,16 +492,16 @@ struct Slot {
 
 ## Contact
 
-- ***Chenzs108***
+- ***Chen Zhenshuo***
 
-  > ***GitHub***: https://github.com/czs108/
+  > ***GitHub***: https://github.com/czs108
   >
   > ***E-Mail***: chenzs108@outlook.com
   >
   > ***WeChat***: chenzs108
 
-- ***Liugw***
+- ***Liu Guowen***
 
-  > ***GitHub***: https://github.com/lgw1995/
+  > ***GitHub***: https://github.com/lgw1995
   >
   > ***E-Mail***: liugw01@outlook.com
